@@ -51,7 +51,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4719d1c7-8c20-4b29-b873-2f211ff28e8b" name="Changes" comment="Welcomeq" />
+    <list default="true" id="4719d1c7-8c20-4b29-b873-2f211ff28e8b" name="Changes" comment="Welcomeq">
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729448762318</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Welcomeq">
+      <option name="closed" value="true" />
+      <created>1729451116849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729451116849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,9 +266,10 @@
     <MESSAGE value="hii" />
     <MESSAGE value="final" />
     <MESSAGE value="finished" />
-    <MESSAGE value="key" />
     <MESSAGE value="Welcome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Welcome" />
+    <MESSAGE value="key" />
+    <MESSAGE value="Welcomeq" />
+    <option name="LAST_COMMIT_MESSAGE" value="Welcomeq" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
